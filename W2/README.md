@@ -27,7 +27,7 @@ that evaluate to:
 
 ## Problem 3
 
-A ladder put up right against a wall will fall over unless put up at a certain
+A ladder put up right against a wall will fall over unless put up at a certain 
 angle less than 90 degrees.  Given variables `length` and `angle` storing the
 length of the ladder and the angle that it forms with the ground as it leans
 against the wall, write a Python program that reads `length` and `angle` from
@@ -44,3 +44,30 @@ Test your program with the following values when inputting `length` and `angle`:
 2. 0m and 0˚
 3. 24m and 45˚
 4. 24m and 120˚.
+
+## Problem 4
+
+Consider the a function named *distance* which takes 4 (int) inputs separately using the following prompts.
+
+Disregard the subscript and just ask for *Point P1* and *Point P2*
+1. Enter `x` coordinate for *Point P*<sub>1</sub>:
+2. Enter `y` coordinate for *Point P*<sub>1</sub>:
+3. Enter `x` coordinate for *Point P*<sub>2</sub>:
+4. Enter `y` coordinate for *Point P*<sub>2</sub>:
+
+Given these inputs, write a function that calculates the distance between *P*<sub>1</sub> and *P*<sub>2</sub>
+and stores it in a variable named *dist*. Then, print *dist*. 
+Recall that the formula to calculate the distance between two points is the square root of 
+(x<sub>1</sub> - x<sub>2</sub>)<sup>2</sup> + (y<sub>1</sub> - y<sub>2</sub>)<sup>2</sup>
+
+## Problem 5
+
+Consider a function which takes 3 (int) inputs with the following prompts
+and stores them in variables *a*, *b*, and *c*, respectively.
+
+1. Enter first number:
+2. Enter second number:
+3. Enter third number:
+
+Write a program which calculates the remainder when `a * b` is divided by `c`. You **may not** use the built-in 
+modulo function (denoted by `%`).
