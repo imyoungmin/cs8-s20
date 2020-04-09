@@ -71,3 +71,11 @@ and stores them in variables *a*, *b*, and *c*, respectively.
 
 Write a program which calculates the remainder when `a * b` is divided by `c`. You **may not** use the built-in 
 modulo function (denoted by `%`).
+
+## Problem 6
+
+Write a program that takes the user's hourly wage, the number of hours they work in a month, and their monthly expenditure as input (stored in *wage*, *hours*, and *expenses* respectively). Compute their savings for the month using the formula 
+
+*savings* = (*wages* \times *hours*) - *expenses*
+
+and print out *savings*. 
