@@ -84,4 +84,4 @@ Compute their savings for the month using the formula
 
 savings = (wage x hours) - expenses
 
-and print out the variable that stores the savings. 
+and print out the savings. 
