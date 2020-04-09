@@ -1,4 +1,4 @@
 '''
-Write a program which takes 5 strings as input and appends them in that order
-to a list *l*. Then, concatenate them into a single string *s* 
+Given a string *s* of length 5, write a function to determine if *s* is palindromic.
+
 '''
