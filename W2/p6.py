@@ -3,11 +3,11 @@
 
 #Input all required information
 wage = int(input("Enter your hourly wage: "))
-hrs = int(input("Enter the no. of hours worked this month: "))
+hours = int(input("Enter the no. of hours worked this month: "))
 expenses = int(input("Enter your monthly expenses: "))
 
 #Compute the savings
-savings = wage*hrs - expenses
+savings = wage*hours - expenses
 
 #Print out the savings
 print(savings)
