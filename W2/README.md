@@ -74,8 +74,14 @@ modulo function (denoted by `%`).
 
 ## Problem 6
 
-Write a program that takes the user's hourly wage, the number of hours they work in a month, and their monthly expenditure as input (stored in `wage`, `hours`, and `expenses` respectively). Compute their savings for the month using the formula 
+Write a program that takes the user's hourly wage, the number of hours they work in a month, and their monthly expenditure as input (stored in `wage`, `hours`, and `expenses` respectively). Use the following input prompts:
+
+1. Enter your hourly wage:
+2. Enter the no. of hours worked this month:
+3. Enter your monthly expenses: 
+
+Compute their savings for the month using the formula 
 
 savings = (wage x hours) - expenses
 
-and print out the savings. 
+and print out the variable that stores the savings. 
