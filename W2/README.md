@@ -76,6 +76,6 @@ modulo function (denoted by `%`).
 
 Write a program that takes the user's hourly wage, the number of hours they work in a month, and their monthly expenditure as input (stored in `wage`, `hours`, and `expenses` respectively). Compute their savings for the month using the formula 
 
-savings = (wages x hours) - expenses
+savings = (wage x hours) - expenses
 
 and print out the savings. 
