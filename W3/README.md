@@ -1,10 +1,11 @@
 # Exercises for Weeks 3
 
-## Problem 1
+## Problem 1: Palindromes semordnilaP
+
 Given a string *s* of length 5, write a function to determine if *s* is palindromic. 
 
+## Problem 2: A Vending Machine
 
-## Problem 2
 Consider a vending machine represented as a dictionary with candy items (represented by their names)
 mapped to prices. The names of the candy items are also stored in *names*, a list of strings. 
 Write a program which outputs all candy names and their prices in the following form. 
@@ -36,7 +37,7 @@ are 0-based (i.e. index 0 maps to `"January"` and index 11 maps to `"December"`)
 2. Use a `list` to store the total number of days in each month (assume no leap years).  These are:
     ```
     January: 31     February: 28     March: 31      April: 30     
-    May: 31         June: 30         July: 31       August: 31:      
+    May: 31         June: 30         July: 31       August: 31      
     September: 30   October: 31      November: 30   December: 31
     ```
 3. Use the `min()` and `max()` functions to clamp the input values to their corresponding ranges for month and day.
@@ -45,9 +46,15 @@ Likewise, clamp the day depending on the selected month.  In the example executi
 for `April`, the value `31` is clamped to `30` because April has only 30 days.
 4. How would you modify your solution to use a **single** `dict` structure instead of two `lists`?
 
-## Problem 4
+## Problem 4: Your Initials Here, Please...
 
+Write a program that reads the first and (one-word) surname of a person, separated by a blank space, and
+outputs the person's initials in capital letters.  For example:
 
+```
+>>> Input name: mónica ángeles
+>>> Hello MÁ!
+``` 
 
 ## Problem 5
 
