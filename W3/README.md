@@ -56,5 +56,17 @@ outputs the person's initials in capital letters.  For example:
 >>> Hello MÁ!
 ``` 
 
-## Problem 5
+## Problem 5: Complex Numbers
+
+Write a program that defines a **named tuple** `Complex`, which comes with two fields: `r` for the real part, and
+`i` for the imaginary part.  Then, given two complex numbers, `c1` and `c2`, compute and print:
+1. Their conjugates: if `c = x + yi` is a complex number, its conjugate is `c' = x - yi`.
+2. The norm of `c1 - c2`: if `c = x + yi` is a complex number, its norm is the square root of x<sup>2</sup> +
+y<sup>2</sup>.
+3. The rotated version of `c1` by 90 degrees with respect to the real axis: if `c = x + yi` is a complex number, 
+the rotation of `c` by θ *radians* is given by `c' = (x * cosθ - y * sinθ) + (x * sinθ + y * cosθ)i`. 
+
+Test your program with `c1 = 1 + i` and `c2 = 1 - i`.
+
+## Problem 6: <Title 6>
 
