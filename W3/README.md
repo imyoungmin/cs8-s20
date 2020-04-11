@@ -79,9 +79,9 @@ For instance, if `l = ['Alex', 'Bob', 'Charlie', 'David', 'Ethan']`, then after 
 Finally, finish the program by creating a dictionary called `d` mapping each name to its length.
 
 ## Problem 7: Survivor Currency
-In the reality television series, Survivor, castaways can exchange their fire tokens for various food and comfort items, as well as various advantages in the game. The exchange rates for these items are listed in a dictionary, tokens, in the file `survivor.py` with the key: value pair being item: cost respectively. 
+In the reality television series, *Survivor*, castaways can exchange their fire tokens for various food and comfort items, as well as various advantages in the game. The exchange rates for these items are listed in a dictionary, tokens, in the file `survivor.py` with the key: value pair being item: cost respectively. 
 
-a) Write a program that takes two inputs from the keyboard, the amount of fire tokens and a luxury item, and output how many of those luxury items a castaway can buy with the given tokens. **YOUR SOLUTION MUST NOT BE WRITTEN IN THE `survivor.py` FILE AND MUST INCLUDE THE `survivor.py` FILE.**
+a) Write a program that takes two inputs from the keyboard, the amount of fire tokens and a luxury item, and output how many of those luxury items a castaway can buy with the given tokens. *YOUR SOLUTION MUST NOT BE WRITTEN IN THE `survivor.py` FILE AND MUST INCLUDE THE `survivor.py` FILE.*
 
 ```
 #Example 1: 
