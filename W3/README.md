@@ -99,4 +99,24 @@ a) Write a program that takes two inputs from the keyboard, the amount of fire t
 
 b) **BRIEFLY** explain why the strings defined at the top of the `survivor.py` file are not being outputted.
 
-## Problem 8: NAME
+## Problem 8: Cash Register
+a) Write a code snippet that takes a numeric input from the keyboard, cents, and outputs the coins in change a cashier would return. The following assumptions can be made:
+1. The input will always be an integer between 0 and 99, inclusive.
+2. The cashier will always return the least amount of coins possible.
+3. The cashier only has quarters (25 cents), dimes (10 cents), nickels (5 cents), and pennies (1 cent).
+
+```
+#Example 1: 
+>>> Enter amount of change: 99
+>>> Your change is equivalent to 3 quarter(s) + 2 dime(s) + 0 nickel(s) + 4 penny(ies)
+```
+
+```
+#Example 2: 
+>>> Enter amount of change: 43
+>>> Your change is equivalent 1 quarter(s) + 1 dime(s) + 1 nickel(s) + 3 penny(ies)
+```
+
+b) **BRIEFLY** explain a possible error that can occur if we did not assume statement #1. 
+
+## Problem 9: NAME
