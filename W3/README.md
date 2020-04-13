@@ -121,5 +121,31 @@ b) **BRIEFLY** explain a possible error that can occur if we did not assume stat
 
 ## Problem 9: NAME
 
+## Problem 10: The Supermarket
+
+The supermarket catalog is stored in a dictionary called `catalog` , which maps item names to their prices. Create your own catalog!
+
+Write a program that prompts the user to enter three items that are on their shopping list (stored these in a list called `shopping_list`). Compute the total cost of the user's purchases, and display it as shown in the example.
+
+Example:
+```
+    >>> Enter the first item: milk
+    >>> Enter the second item: apples
+    >>> Enter the third item: bread
+    >>> Receipt
+    milk cost 3.09
+    apples cost 2.79
+    bread cost 4.19
+    Total: 10.07
+```
+
+**Bonus #1**
+
+When computing the total, also include the tax (5% on each item, which is equivalent to 5% on the total).
+
+**Bonus #2**
+
+Can this program be modified to allow a user to enter the number of units of each item they want?
+
 ## Link to a list of about topics covered in week 3
 https://docs.google.com/document/d/1uWzUaBq783Dj1OplowvpWa3zMtXeOLtE_VNQYu-cP4k/edit
