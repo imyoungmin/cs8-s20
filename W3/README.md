@@ -125,7 +125,7 @@ b) **BRIEFLY** explain a possible error that can occur if we did not assume stat
 
 The supermarket catalog is stored in a dictionary called `catalog` , which maps item names to their prices. Create your own catalog!
 
-Write a program that prompts the user to enter three items that are on their shopping list (stored these in a list called `shopping_list`). Compute the total cost of the user's purchases, and display it as shown in the example.
+Write a program that prompts the user to enter three items that are on their shopping list (store these in a list called `shopping_list`). Compute the total cost of the user's purchases, and display it as shown in the example.
 
 Example:
 ```
