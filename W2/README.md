@@ -81,3 +81,6 @@ Write a program that takes the user's hourly wage, the number of hours they work
 3. Enter your monthly expenses: 
 
 Compute their savings for the month and print it out. The formula for computing the savings is *(wage x hours) - expenses* 
+
+## Week 2 Key Concepts Summary 
+https://docs.google.com/document/d/1VXjXLG4RvJXy_BOK_p1yNHq7o41NVu3q6lMkZ7jQdBQ/edit?usp=sharing
