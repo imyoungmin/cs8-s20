@@ -37,4 +37,5 @@ print('Receipt')
 print('{} cost {}'.format(shopping_list[0], catalog[shopping_list[0]]*units_list[0]))
 print('{} cost {}'.format(shopping_list[1], catalog[shopping_list[1]]*units_list[1]))
 print('{} cost {}'.format(shopping_list[2], catalog[shopping_list[2]]*units_list[2]))
-print('Total: ', total)
+print('Total: {:.2f}'.format(total))
+
