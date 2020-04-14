@@ -119,9 +119,7 @@ a) Write a code snippet that takes a numeric input from the keyboard, cents, and
 
 b) **BRIEFLY** explain a possible error that can occur if we did not assume statement #1. 
 
-## Problem 9: NAME
-
-## Problem 10: The Supermarket
+## Problem 9: The Supermarket
 
 The supermarket catalog is stored in a dictionary called `catalog` , which maps item names to their prices. Create your own catalog!
 
@@ -149,3 +147,6 @@ Can this program be modified to allow a user to enter the number of units of eac
 
 ## Link to a list of about topics covered in week 3
 https://docs.google.com/document/d/1uWzUaBq783Dj1OplowvpWa3zMtXeOLtE_VNQYu-cP4k/edit
+
+## Week 3 Key Concepts Summary
+https://docs.google.com/document/d/1I0nszlCkRRUNUGE_acpAYBI8I3C6-uL8_LSStaUx31o/edit?usp=sharing
