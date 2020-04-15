@@ -11,3 +11,12 @@ by 150%. Implement these changes to the dictionary mapping *names* to *prices*.
 Test your code in both of the above questions by creating your own dictionaries and names.
 
 '''
+
+vending_machine = {'kit-kat':1.99, 'twix':0.99}
+names = ['kit-kat', 'twix']
+for name in names:
+    print("The price of " + name + ' is $' + str(vending_machine[name]))
+#Alternatively, print(vending_machine) works too
+
+for name in names:
+    vending_machine[name] *= 1.5

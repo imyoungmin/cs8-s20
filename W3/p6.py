@@ -8,3 +8,21 @@ Finally, finish the program by creating a dictionary mapping each name to its le
 '''
 
 # Solution here
+l = []
+while len(l) < 5:
+    l.append(input("Enter a name: "))
+
+temp = l[0]
+temp1 = l[1]
+l[0] = l[4]
+l[1] = l[3]
+l[3] = temp1
+l[4] = temp
+
+print(l)
+
+name_to_length = {}
+for name in l:
+    name_to_length[name] = len(name)
+
+print(name_to_length)
