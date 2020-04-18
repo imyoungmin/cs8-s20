@@ -11,8 +11,22 @@ Write a program that reads in an integer year and ouputs whether it is a leap or
 
 ## Problem 2: Triangles
 
-Write a program that reads in three numbers and determines and prints if these can be used to build a *non-
-degenerate* triangle (i.e. non flat).  Make sure that your program works only with positive values.
+Write a program that reads in three numbers and determines and prints if these can be used to build a 
+*non-degenerate* triangle (i.e. non flat).  Make sure that your program works only with positive values.
 
 **Note**: If the lengths of a triangle are `a`, `b`, and `c`, then each of them must be smaller than the *sum*
 of the other two sides.  This is known as the *triangle inequality* for non-degenerate cases.
+
+## Problem 3: Cyphering and Decyphering
+
+A company wishes to transfer data though the phone, but they are worried that phone lines can be intercepted.
+All of their data are transmitted as 4-digit integers.  They are asking you to write a program to cypher their
+data in such a way that information can be sent more safely.  Your program must read in a 4-digit integer and
+cypher it as follows:
+1. Replace each digit by the *(the sum of the digit plus 7) modulo 10*.
+2. Next, interchange the first digit with the third digit, and the second digit with the fourth digit.
+
+Finally, print the cyphered number.
+
+**Challenge!**  Write a second section in your program that takes the cyphered number and produces the 
+original (decyphered) number.  Verify whether these values coincide by comparing them.  
