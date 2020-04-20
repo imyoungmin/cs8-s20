@@ -80,7 +80,7 @@ Write a python script, `roshambo.py`, that takes in two inputs from the keyboard
 ```
 
 ## Problem 7: Rock Paper Scissors Lizard Spock
-Continuing from problem 6, edit your ```roshambo.py``` file to implement an extended version of the RPS game: Rock, Paper, Scissors, Lizard, Spock. The rules to the game are explained in the origins of the game from The Big Bang Theory: https://www.youtube.com/watch?v=x5Q6-wMx-K8.
+Continuing from problem 6, edit your ```roshambo.py``` file to implement an extended version of the RPS game: Rock, Paper, Scissors, Lizard, Spock. The rules to the game are explained in the origins of the game from The Big Bang Theory: https://www.youtube.com/watch?v=x5Q6-wMx-K8. The rules are also written in detail here: https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock.
 
 ## Additional Practice Problems
 https://docs.google.com/document/d/1345d-ENx0PqvTErIYQYBs0G_o4j4NpXBC_WJTbFrhxI/edit
