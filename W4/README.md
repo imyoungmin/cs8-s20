@@ -35,12 +35,12 @@ original (decyphered) number.  Verify whether these values coincide by comparing
 
 Write a program that accepts a number between 1 & 10 (inclusive), and returns a travel destination based on the following criteria.
 
-    | Number   | Destination  |
-    |----------|--------------|
-    | 1-3      |  Greece      |
-    | 4-6      |  Thailand    |
-    | 7-9      |  Switzerland |
-    | 10       |  France      |
+| Number   | Destination  |
+|----------|--------------|
+| 1-3      |  Greece      |
+| 4-6      |  Thailand    |
+| 7-9      |  Switzerland |
+| 10       |  France      |
     
 
 If the number is less than zero or greater than 10, print `Your choice is invalid.`
