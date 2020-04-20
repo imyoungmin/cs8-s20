@@ -30,3 +30,8 @@ Finally, print the cyphered number.
 
 **Challenge!**  Write a second section in your program that takes the cyphered number and produces the 
 original (decyphered) number.  Verify whether these values coincide by comparing them.  
+
+## Additional Practice Problems
+https://docs.google.com/document/d/1345d-ENx0PqvTErIYQYBs0G_o4j4NpXBC_WJTbFrhxI/edit
+
+Hopefully this time, the solutions to ^^ will be posted in a timely manner >_<
