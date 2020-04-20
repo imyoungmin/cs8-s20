@@ -57,7 +57,37 @@ A student receives credit for attending a lab section only if they are enrolled 
 
 *Hint: The membership operators can help you decide this.*
 
+## Problem 6: Roshambo
+
+Write a python script, `roshambo.py`, that takes in two inputs from the keyboard, player1_move and player2_move, and outputs which player wins that round of rock-paper-scissors according to the game’s rules.
+*Recall that ‘paper’ beats ‘rock’, ‘scissors’ beats ‘paper’, and ‘rock’ beats ‘scissors’*
+
+```
+#Example 1:
+>>> Player 1, enter your move: rock
+>>> Player 2, enter your move: scissors
+>>> Player 1’s rock beats player 2’s scissors!
+
+#Example 2:
+>>> Player 1, enter your move: paper
+>>> Player 2, enter your move: paper
+>>> Player 1’s paper ties with player 2’s paper!
+
+#Example 3:
+>>> Player 1, enter your move: gordon
+>>> Player 2, enter your move: ramsay
+>>> ERROR! Please only enter the values ‘rock’, ‘paper’, or ‘scissors’
+```
+
+## Problem 7: Rock Paper Scissors Lizard Spock
+Continuing from problem 6, edit your ```roshambo.py``` file to implement an extended version of the RPS game: Rock, Paper, Scissors, Lizard, Spock. The rules to the game are explained in the origins of the game from The Big Bang Theory: https://www.youtube.com/watch?v=x5Q6-wMx-K8.
+
 ## Additional Practice Problems
 https://docs.google.com/document/d/1345d-ENx0PqvTErIYQYBs0G_o4j4NpXBC_WJTbFrhxI/edit
 
 Hopefully this time, the solutions to the additional problems will be posted in a timely manner >_<
+
+## Week 4 Key Concepts Summary
+https://docs.google.com/document/d/1ZZ2ACx84pki5-MNascWcrGXNXXwsQj6hZWL1tjz230M/edit?usp=sharing
+
+
