@@ -148,5 +148,8 @@ Can this program be modified to allow a user to enter the number of units of eac
 ## Link to a list of about topics covered in week 3
 https://docs.google.com/document/d/1uWzUaBq783Dj1OplowvpWa3zMtXeOLtE_VNQYu-cP4k/edit
 
+And its answer key (sorry for posting so late >_<)
+https://docs.google.com/document/d/1YRL2mBbSJ-R8_QozU7Jv5ykSgh5XC6xw0FdipCMWCYY/edit?usp=sharing
+
 ## Week 3 Key Concepts Summary
 https://docs.google.com/document/d/1I0nszlCkRRUNUGE_acpAYBI8I3C6-uL8_LSStaUx31o/edit?usp=sharing
