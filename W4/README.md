@@ -31,6 +31,31 @@ Finally, print the cyphered number.
 **Challenge!**  Write a second section in your program that takes the cyphered number and produces the 
 original (decyphered) number.  Verify whether these values coincide by comparing them.  
 
+## Problem 4: Travel Quiz
+
+Write a program that accepts a number between 1 & 10 (inclusive), and returns a travel destination based on the following criteria.
+
+    | Number   | Destination  |
+    |----------|--------------|
+    | 1-3      |  Greece      |
+    | 4-6      |  Thailand    |
+    | 7-9      |  Switzerland |
+    | 10       |  France      |    
+
+If the number is less than zero or greater than 10, print `Your choice is invalid.`
+
+For example
+```
+    >>> Enter a number between 1 & 10 (inclusive): 6
+    >>> You will travel to Thailand next!
+```
+
+## Problem 5: Attendance Credit
+
+A student receives credit for attending a lab section only if they are enrolled in that section. Create a list of students enrolled in the section you attend. Allow the user to enter the name of a student, and determine whether the student receives credit for attending your section or not.
+
+*Hint: The membership operators can help you decide this.*
+
 ## Additional Practice Problems
 https://docs.google.com/document/d/1345d-ENx0PqvTErIYQYBs0G_o4j4NpXBC_WJTbFrhxI/edit
 
