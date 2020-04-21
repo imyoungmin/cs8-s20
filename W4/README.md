@@ -84,8 +84,7 @@ Continuing from problem 6, edit your ```roshambo.py``` file to implement an exte
 
 ## Additional Practice Problems
 https://docs.google.com/document/d/1345d-ENx0PqvTErIYQYBs0G_o4j4NpXBC_WJTbFrhxI/edit
-
-Hopefully this time, the solutions to the additional problems will be posted in a timely manner >_<
+Answer Key: https://docs.google.com/document/d/1EmrRyf7Okxc9kq6OuYTLVQAX6x3YD7D1lie2tp34X6U/edit?usp=sharing
 
 ## Week 4 Key Concepts Summary
 https://docs.google.com/document/d/1ZZ2ACx84pki5-MNascWcrGXNXXwsQj6hZWL1tjz230M/edit?usp=sharing
