@@ -20,7 +20,7 @@ prints its decimal equivalence.
 ## Problem 3: Euler's Number
 
 Write a program that reads in a non-negative integer `n` and prints the approximation of the Euler's number *e*
-using `n` terms from the formula:
+using `n + 1` terms from the formula:
 
 ```
          1     1     1           1
