@@ -60,4 +60,4 @@ from the user.  Use the following information to build your solution:
   of `d = (xi - x0)^2 + (yi - y0)^2`.  If `d <= r^2`, then the point is on or inside the circle; if 
   `d > r^2`, th epoint is outside the circle.
   
-How many samples do you need to start seen a good approximation of π? 
+How many samples do you need to start seing a good approximation of π? 
