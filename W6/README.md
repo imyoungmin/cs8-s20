@@ -44,3 +44,7 @@ Write a function that takes in an integer value and returns the number with its 
 For example, given the number -7630, the function should return -367.  Notice that negative numbers are
 valid, and the sign should be preserved in the final result.
 
+
+## Additional Practice Problems
+
+https://docs.google.com/document/d/1YXqsS-N0S1bh6hITCOmLlWvIHjyL-UexYnZ3q6ei0js/edit
