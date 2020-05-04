@@ -45,6 +45,10 @@ For example, given the number -7630, the function should return -367.  Notice th
 valid, and the sign should be preserved in the final result.
 
 
+## Problem 4: Min4
+
+Write a function min4() that takes in 4 numbers as parameters and returns the smallest of those 4 numbers. Do not use the min function.
+
 ## Additional Practice Problems
 
 https://docs.google.com/document/d/1YXqsS-N0S1bh6hITCOmLlWvIHjyL-UexYnZ3q6ei0js/edit
