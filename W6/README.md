@@ -44,11 +44,29 @@ Write a function that takes in an integer value and returns the number with its 
 For example, given the number -7630, the function should return -367.  Notice that negative numbers are
 valid, and the sign should be preserved in the final result.
 
-
 ## Problem 4: Min4
 
 Write a function min4() that takes in 4 numbers as parameters and returns the smallest of those 4 numbers. Do not use the min function.
 
+## Problem 5: Transpose
+
+Transpose is a matrix operation which swaps the rows and columns of an element. Write a function, transpose(), which takes a two-dimensional list (which represents a matrix), and returns the transpose of that two-dimensional list.
+
+```
+Example:
+matrix = [[1, 2, 3], 
+          [4, 5, 6]]
+transposedMatrix = [[1, 4],
+                    [2, 5],
+                    [3, 6]]
+```
+
+**Challenge: Rewrite the transpose() function without making a new 2D list.**
+                
 ## Additional Practice Problems
 
 https://docs.google.com/document/d/1YXqsS-N0S1bh6hITCOmLlWvIHjyL-UexYnZ3q6ei0js/edit
+
+## Week 6 Key Concepts Summary
+https://docs.google.com/document/d/18r7iHWw8sOXbMdGanUdkdSE88Mo4VCxQl7cwHEUpxy0/edit?usp=sharing
+
