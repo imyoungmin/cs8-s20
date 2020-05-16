@@ -14,7 +14,7 @@ where `RR` is the amount of red, `GG` is the amount of green, and `BB` is the am
 hexadecimal "digit" `R`, `G`, or `B`, takes the value of `0, 1, ..., 9, A, ..., F`.  For example,
 `FF0000` is pure red, while `FFFF00` is yellow, and `00FFFF` is cyan.  The corresponding decimal-based
 color equivalences are `(255, 0, 0)`, `(255, 255, 0)`, and `(0, 255, 255)`.  Also, `003660` 
-![#003660](https://via.placeholder.com/15/003660/000000?text=+) is the blue navy official *UCSB* color 
+![#003660](https://via.placeholder.com/15/003660/000000?text=+) is the navy blue official *UCSB* color 
 with decimal triplet `(0, 54, 96)` (https://brand.ucsb.edu/visual-identity/color#digital)!
 
 To modularize your work, write a function `hexToDec` that converts a hexadecimal string into decimal, and
