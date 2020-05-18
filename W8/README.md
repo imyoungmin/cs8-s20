@@ -39,3 +39,6 @@ return the expected tuple.
 
 **Note**: Your function should not modify the original input list in any way!  Also, the mode can be
 multy-valued like in the example above.
+
+## Week 8 Key Concepts Summary
+https://docs.google.com/document/d/1wF6IP6yMpWdgWgR270TPntBnFrD6k6jTHsN_IjkApcg/edit?usp=sharing
